@@ -1,3 +1,2 @@
-# hello-world
-First repository, well not really.
-Changing this to see how commits work.
+#hello-world
+I fixed the issue and am wanting to make positive changes to society.
